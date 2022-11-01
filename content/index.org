@@ -1,14 +1,28 @@
-#+title: Org Mode Example Site
-
-* Overview
-
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
-
-Here is a link to my [[./Emacs.org][Emacs configuration]].
-
-* Links
-
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t
+#+options: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:t toc:nil todo:t |:t
+#+title: My small drawer
+#+date: <2022-11-01 火>
+#+author: kiyohitoyoshida
+#+email: yoshida@pfa
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.5.5)
+#+cite_export:
+* ブログの開設 <2022-11-01 火>
+- Emacs + org-mode + org-publish + github + Netlify の組み合わせでブログを作成する。
+- 参考にしたサイト
+  - [[https://www.youtube.com/watch?v=AfkrzFodoNw][Build Your Website with Org Mode]]
+  - [[https://qiita.com/suin/items/743fe6252ad8af425c5e][はじめてのNetlify: git pushでサイトを公開する極小手順]]
+  - [[https://git-scm.com/book/ja/v2][Pro Git book]]
+  - [[https://qiita.com/shizuma/items/2b2f873a0034839e47ce][GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~]]
+- サイトの更新
+  1. build-site.elで設定
+  2. orgファイルの編集
+  3. build.shでpublish
+  4. git add -A
+  5. git commit -m "messages"
+  6. git push origin master
