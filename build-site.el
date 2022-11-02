@@ -10,9 +10,6 @@
 (unless package-archive-contents
   (package-refresh-contents))
 
-;; Install dependencies
-(package-install 'htmlize)
-
 ;; Load the publishing system
 (require 'ox-publish)
 
@@ -34,7 +31,14 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :time-stamp-file nil)))    ;; Don't include time stamp in file
+             :time-stamp-file nil)    ;; Don't include time stamp in file
+	   (list "images"
+			 :base-directory "./content/images/"
+			 :base-extension "jpg\\|gif\\|png\\|mp4\\|webm"
+			 :publishing-directory "./public/images"
+			 :publishing-function 'org-publish-attachment)
+	   )
+	  )
 
 ;; Generate the site output
 (org-publish-all t)

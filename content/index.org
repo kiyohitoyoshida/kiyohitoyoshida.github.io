@@ -12,6 +12,12 @@
 #+exclude_tags: noexport
 #+creator: Emacs 27.1 (Org mode 9.5.5)
 #+cite_export:
+* NiCdバッテリ代用簡易電源 <2022-11-01 火>
+ 後閑哲也 著 「誰にでも手軽にできる電子工作入門」に掲載されている簡易電源。2001年に製作。
+#+ATTR_HTML: :width 300px
+ [[file:images/IMG_0245.jpg]]
+#+ATTR_HTML: :width 300px
+ [[file:images/IMG_0246.jpg]]
 * ブログの開設 <2022-11-01 火>
 - Emacs + org-mode + org-publish + github + Netlify の組み合わせでブログを作成する。
 - 参考にしたサイト
