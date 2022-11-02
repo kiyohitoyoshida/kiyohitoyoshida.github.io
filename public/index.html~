@@ -5,19 +5,19 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>My small drawers</title>
+<title>My small drawer</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="kiyohitoyoshida" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content">
-<h1 class="title">My small drawers</h1>
-<div id="outline-container-org6b4160c" class="outline-2">
-<h2 id="org6b4160c">NiCdバッテリ代用簡易電源 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
-<div class="outline-text-2" id="text-org6b4160c">
+<h1 class="title">My small drawer</h1>
+<div id="outline-container-org0643719" class="outline-2">
+<h2 id="org0643719">NiCdバッテリ代用簡易電源 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
+<div class="outline-text-2" id="text-org0643719">
 <p>
-後閑哲也 著 「誰にでも手軽にできる電子工作入門」に掲載されている簡易電源。2001年に製作。<a href="http://www.picfun.com/eqframe.html">著者のホームページ</a>に製作品が紹介されている。
+後閑哲也 著 「誰にでも手軽にできる電子工作入門」に掲載されている簡易電源。2001年に製作。<a href="http://www.picfun.com/eqframe.html">著者のホームページ</a>に製作品が紹介されています。
 </p>
 
 <div class="figure">
@@ -31,9 +31,9 @@
 </div>
 </div>
 </div>
-<div id="outline-container-org1ab6925" class="outline-2">
-<h2 id="org1ab6925">ブログの開設 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
-<div class="outline-text-2" id="text-org1ab6925">
+<div id="outline-container-orgab31050" class="outline-2">
+<h2 id="orgab31050">ブログの開設 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
+<div class="outline-text-2" id="text-orgab31050">
 <ul class="org-ul">
 <li>Emacs + org-mode + org-publish + github + Netlify の組み合わせでブログを作成する。</li>
 <li>参考にしたサイト

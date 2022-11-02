@@ -3,7 +3,7 @@
 #+options: d:(not "LOGBOOK") date:nil e:t email:nil f:t inline:t
 #+options: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+options: timestamp:nil title:t toc:nil todo:t |:t
-#+title: My small drawer
+#+title: My small drawers
 #+date: <2022-11-01 火>
 #+author: kiyohitoyoshida
 #+email: yoshida@pfa
@@ -13,7 +13,7 @@
 #+creator: Emacs 27.1 (Org mode 9.5.5)
 #+cite_export:
 * NiCdバッテリ代用簡易電源 <2022-11-01 火>
- 後閑哲也 著 「誰にでも手軽にできる電子工作入門」に掲載されている簡易電源。2001年に製作。
+ 後閑哲也 著 「誰にでも手軽にできる電子工作入門」に掲載されている簡易電源。2001年に製作。[[http://www.picfun.com/eqframe.html][著者のホームページ]]に製作品が紹介されている。
 #+ATTR_HTML: :width 300px
  [[file:images/IMG_0245.jpg]]
 #+ATTR_HTML: :width 300px
