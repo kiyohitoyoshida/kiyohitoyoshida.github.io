@@ -13,9 +13,27 @@
 <body>
 <div id="content">
 <h1 class="title">My small drawer</h1>
-<div id="outline-container-orgc9d4dd7" class="outline-2">
-<h2 id="orgc9d4dd7">ブログの開設 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
-<div class="outline-text-2" id="text-orgc9d4dd7">
+<div id="outline-container-org0387d80" class="outline-2">
+<h2 id="org0387d80">NiCdバッテリ代用簡易電源 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
+<div class="outline-text-2" id="text-org0387d80">
+<p>
+後閑哲也 著 「誰にでも手軽にできる電子工作入門」に掲載されている簡易電源。2001年に製作。
+</p>
+
+<div class="figure">
+<p><img src="images/IMG_0245.jpg" alt="IMG_0245.jpg" width="300px" />
+</p>
+</div>
+
+<div class="figure">
+<p><img src="images/IMG_0246.jpg" alt="IMG_0246.jpg" width="300px" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd1d44df" class="outline-2">
+<h2 id="orgd1d44df">ブログの開設 <span class="timestamp-wrapper"><span class="timestamp">&lt;2022-11-01 火&gt;</span></span></h2>
+<div class="outline-text-2" id="text-orgd1d44df">
 <ul class="org-ul">
 <li>Emacs + org-mode + org-publish + github + Netlify の組み合わせでブログを作成する。</li>
 <li>参考にしたサイト
